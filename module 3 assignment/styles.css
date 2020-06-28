@@ -1,0 +1,35 @@
+.box {
+	width:80%;
+	background-color: grey;
+	padding:50px;
+	border:1.5px solid black;
+	box-sizing: border-box;
+	margin-top: 80px;
+	margin-bottom: 80px;
+	margin-left: auto;
+	margin-right: auto;
+	clear: both;
+}
+.smallbox {
+  width: 100px;
+  background-color: pink;
+  text-align: center;
+  border: 1.5px solid black;
+  float: right;
+  position:relative;
+  bottom:51.5px;
+  left:51px;
+}
+.topmargin {
+	margin-top: 20px;
+}
+h1 {
+	text-align: center;
+	padding: 20px;
+}
+.center {
+	text-align: center;
+}
+.style {
+	list-style-type: none;
+}
